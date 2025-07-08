@@ -1,7 +1,3 @@
-Here’s your updated **README.md** — now focused entirely on the **mathematical intuition** of the project, without file listings or sample outputs.
-
----
-
 # 📈 Simple Linear Regression – Salary Prediction Based on Experience
 
 This project demonstrates how to build a **Simple Linear Regression model** completely **from scratch** using Python and NumPy, and then compares it with scikit-learn’s `LinearRegression`.
@@ -104,5 +100,4 @@ If you’re serious about mastering ML, start with the basics — just like this
 
 ---
 
-Let me know if you'd like this formatted as a `README.md` file or want it published in a GitHub-ready format with badges, headings, or linked sections.
 
